@@ -1,7 +1,7 @@
 # Gerador de Senhas - Java 
 Aplicação desktop desenvolvida em Java.
 
-## Direferença desse projeto esse projeto incrementa o front do senha-seguras##
+## Direferença desse projeto para o projeto senha-seguras, é que ele possui o front ##
 
 ## Tecnologia: 
 Utiliza java.security.SecureRandom. 
